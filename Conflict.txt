@@ -1,1 +1,1 @@
-Hello from github conflict!
+Hello from local conflict!
