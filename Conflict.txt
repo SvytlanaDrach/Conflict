@@ -7,4 +7,6 @@ New line!
 First branch conflict!
 Main conflict!
 
+New branch conflict!
 New main conflict!
+
